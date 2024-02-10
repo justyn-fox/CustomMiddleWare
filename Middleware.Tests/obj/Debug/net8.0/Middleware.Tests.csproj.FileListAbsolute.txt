@@ -1,0 +1,6 @@
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Middleware.Tests
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\obj\Debug\net8.0\Middleware.Tests.csproj.AssemblyReference.cache
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\obj\Debug\net8.0\Middleware.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\obj\Debug\net8.0\Middleware.Tests.AssemblyInfoInputs.cache
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\obj\Debug\net8.0\Middleware.Tests.AssemblyInfo.cs
+C:\Users\Justyn Fox\CustomMiddleWare\Middleware.Tests\obj\Debug\net8.0\Middleware.Tests.csproj.CoreCompileInputs.cache
